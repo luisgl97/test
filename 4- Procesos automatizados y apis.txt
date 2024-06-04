@@ -1,0 +1,12 @@
+4.	
+
+Apis que se podrían integrar:
+
+•	Integrar la api de reniec
+    Se puede ingresar el número de DNI y se precargue los datos personales: como nombres, apellidos, fecha de nacimiento, etc.
+
+•	Utilizar una api de localización
+    Seleccionar el lugar de domicilio en Google maps y abstraer toda la información de la dirección
+
+•	Utilizar alguna fuente de datos del código de ubigeo
+    A partir del código de ubigeo se puede obtener la información de departamento, provincia y distrito de su domicilio.
